@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Z-Cotter
-- 👀 I’m a QA Automation Engineer at Vestwell
+- 👀 I’m a Senior Manager, SDET/QA at Vestwell
 - 📫 How to reach me: Zach.cotter@vestwell.com
